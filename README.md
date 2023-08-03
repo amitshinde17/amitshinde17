@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Shinde</h1>
 <h3 align="center">Data Analyst | Power BI | Tableau | SQL | Python | Advance Excel</h3>
 
-<img align="right" alt="analysis" width="500" src="https://github.com/amitshinde17/amitshinde17/assets/141254197/2c8d95db-aa1b-4a7e-ad2b-2e8ef01d8826">
+<img align="right" alt="analysis" width="500" src="[https://github.com/amitshinde17/amitshinde17/assets/141254197/2c8d95db-aa1b-4a7e-ad2b-2e8ef01d8826](https://startanalytixnow.com/wp-content/uploads/2022/04/Untitled-11-1.gif)">
 
 - 🔭 I’m currently working on [SaaSrooms](https://saasrooms.com/)
 
