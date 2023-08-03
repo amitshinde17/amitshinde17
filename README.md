@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Shinde</h1>
 <h3 align="center">Data Analyst | Power BI | Tableau | SQL | Python | Advance Excel</h3>
 
+<img align="right" alt="analysis" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6njEBR1NUtWqfAVLMPcSULwvuISvZ1d3sw&usqp=CAU">
+
 - 🔭 I’m currently working on [SaaSrooms](https://saasrooms.com/)
 
 - 🌱 I’m currently learning **R programming, Python**
@@ -21,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitshinde17&show_icons=true&locale=en&layout=compact" alt="amitshinde17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitshinde17&" alt="amitshinde17" /></p>
-
